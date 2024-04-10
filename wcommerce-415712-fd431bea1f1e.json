@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wcommerce-415712",
+  "private_key_id": "fd431bea1f1ee21abe8042d1e38bcb88bd1f1198",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCeuYmw+gwPqPUG\nrJn7WS44FqCTha7oYRCpHTubVt+sB/j7K6aJDn8jvr3ZgDE2pDOEuafoKEXJAd00\nqYDxs0Es/m80BYe9RlZ3U4LgMjiDkaUstCZk5ivZo+D1/TZQO62GVUWnqUMhZzgG\nh5hpPYWkmwK+FdvOmoyPc2DM41GymPT0ZIpHxkRHFSkxhcGbSxBzLJF8mYHj4hsQ\n6uX5JuoUELfY0+IpwvrQd+F8fWbrCGi/YJgiNtYtlgGBEsHrHVa1XegGgCY7CxtA\nk2BfwzVF+RHZkIl94oWu8IAFwwYSEXQU04RwbpSIP4BJhCdNkqPgyH/C/h0zFtXM\n7JAO4gnNAgMBAAECggEAA/ru7mfwIP1m5ZEITHgBnh5HzmM6DgbkbM/i7y6IGITb\nqWrAYpahOWN+rcNWmJeYriGctF2RgGyiStWG+lNOgAMXr/Qv4Z8aVc7bjOUy1cPI\nzVHtgOFlD0Wvg2OjNshZqIZ0uHNYulqfr57mA2+WQsOGAlUYfboSP8T61AXNm5RL\nDvqsBUx1L3AoI9Cg4/DrgYRpQOXlgyAlHUk/kph6flnf/sdP5+JJGDJN+TBV/leo\nqezAE2f64fqHFga+9ACCB9t/kyAxGxudVz4k1zcUC2KpT5EWDPtCB4JZ3fqrgPJW\nj1x1qhEqKk285ZfMFea4G30hIiEM3D63azY6nQqeOQKBgQDRQnXFvvlJyS3c6iPf\nbNcqshmG2tZrBT03WeAZ6mChD8eDyMOsMP04l1l9UF140Xd6+BPkNGDI8uLUiSpF\nEX+p0UbXMBGDXRnHOmQAvbwIzA3qAAQHFJFrDEOXZGL/KZR0FLNUUFimDIkLbfWM\nJ0uDZH9IvUw51w/W2inB1SOG6QKBgQDCLXoKs6RCYmHabRbsuWfl8hqX4gIPw/7S\n9ET2HWIfS85meGjKfyzBBMgeVcw5wHdXllktdaYHUP1Jn0lXwB048F2dlc9L1YJz\np8NU/AM2h32d3UBlYAoH6f/JSBKLqRmuQOX2vqnNSFXv0+7R7Ly1TqWEc/4Wt/Xc\nfqKWd/clRQKBgQDNWsUsy97j9BOX6gZOKgd1lNXMK1GkML4EZaSwiftN06hdwVWU\n03aMZKqjeYxhFl6ERJNwrZ4VVZYYMItUwHlh80frwPZOzbyQcNLWj1vJ3kYBTwak\n1CBoxt5F4XPtJ6bRy8a4hSiZu0958ey4H4/RX3wxq+L0GAMpO2sjFsEIkQKBgEg7\nWInAl5rmNBZnvD5lHeQo8oGLXk71Dsb0fO68sXKI5YeyxPCG7GQE3liCfA0DrqFT\nWWsSt6dDFmWbrlHJMlWq/HgRcWJ5UySoxH3JnXxcXHssAbd0SWb2QeNjPxra1aW/\nmIv4Evw9K1KimNVYZj5fuiySZXOYDQpvxRWKHNKtAoGBAMu4ztFzHpvVFrm153y9\nBb3saX3PJBCVXHO4wuyB9Qic/NMJw+t3YQMSg9725fyiKOXRiA2FLHBEUUM4tT7+\nWgr2b2DillSNPXtI1BvHtMOWxKt5GbZ/hGBTkvPoe77GnUSSoQ4bjvW+cdc3m99q\nzDeUknWEmRmeYcSILbautd+P\n-----END PRIVATE KEY-----\n",
+  "client_email": "heritage@wcommerce-415712.iam.gserviceaccount.com",
+  "client_id": "107160881181522928625",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/heritage%40wcommerce-415712.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
