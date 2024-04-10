@@ -8,7 +8,7 @@ app = Flask(__name__)
 # Replace YOUR_SHEET_ID with the ID of your Google Sheet
 # Replace YOUR_RANGE with the range in A1 notation where mobile numbers are stored
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
-SERVICE_ACCOUNT_FILE = "wcommerce-415712-fd431bea1f1e.json"
+SERVICE_ACCOUNT_FILE = "https://github.com/wazsee/Sridhar/blob/main/wcommerce-415712-fd431bea1f1e.json"
 SHEET_ID = '11psEafWUrytdDz-j4ymQ_RqtrNnrCgOUrEPS8XSrUIA'
 RANGE_NAME = 'Sheet1!A:C'
 
